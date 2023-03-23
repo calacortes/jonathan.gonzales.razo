@@ -1,2 +1,2 @@
-# jonathan.gonzales.razo
+# jonathan.gonzales.razo.
 practica1
